@@ -1,4 +1,4 @@
-# 2018-KUAISHOU-TSINGHUA-Top30-Solutions
+# 2018-KUAISHOU-TSINGHUA-RANK30-Solutions
 2018中国高校计算机大赛--大数据挑战赛rank30
 第一次全身心投入的数据挖掘比赛，学到很多，意识到自己还有很多短板，继续加油！
 由于自己模型的差异不够，所以融合带来的提升很有限。
