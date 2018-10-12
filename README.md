@@ -22,5 +22,5 @@
  
  4. 代码的效率有待提高
  
- 5. checkout
+ 5. checkout again
 
